@@ -38,8 +38,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Stephanie0905/Article_component.git)
-- Live Site URL: [Add live site URL here](https://stephanie0905.github.io/Article_component/)
+- Solution URL: [Add solution URL here](https://github.com/Stephanie0905/Interactive-rating-component)
+- Live Site URL: [Add live site URL here](https://stephanie0905.github.io/Interactive-rating-component/)
 
 ## My process
 
